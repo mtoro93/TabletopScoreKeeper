@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tabletop Score Keeper</string>
+    <string name="sheriff_game">Sheriff of Nottingham</string>
+    <string name="five_tribes_game">Five Tribes</string>
+    <string name="sushi_go_game">Sushi Go</string>
+
+
+    <!-- Misc strings -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="begin">Begin</string>
+    <string name="player_one">Player One</string>
+    <string name="player_two">Player Two</string>
+    <string name="player_three">Player Three</string>
+    <string name="player_four">Player Four</string>
+    <string name="player_five">Player Five</string>
+    <string name="zero">0</string>
+    <string name="player_names">Please Enter Player Names</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Number of Player Strings -->
+    <string name="number_players">Number of Players</string>
+    <string name="one_player">One Player</string>
+    <string name="two_player">Two Player</string>
+    <string name="three_player">Three Player</string>
+    <string name="four_player">Four Player</string>
+    <string name="five_player">Five Player</string>
+
+
+    <!-- Sheriff specific strings -->
+    <string name="sheriff_goods">Goods</string> <!-- as in Market Goods -->
+    <string name="sheriff_optional_goods">Including Royal Goods?</string>
+    <string name="sheriff_apple">Apples</string>
+    <string name="sheriff_cheese">Cheese</string>
+    <string name="sheriff_bread">Bread</string>
+    <string name="sheriff_chicken">Chickens</string>
+    <string name="sheriff_pepper">Pepper</string>
+    <string name="sheriff_mead">Mead</string>
+    <string name="sheriff_silk">Silk</string>
+    <string name="sheriff_crossbow">Crossbows</string>
+    <string name="sheriff_bleu">Bleu Cheese</string>
+    <string name="sheriff_golden">Golden Apples</string>
+    <string name="sheriff_gouda">Gouda Cheese</string>
+    <string name="sheriff_green">Green Apples</string>
+    <string name="sheriff_pumpernickel">Pumpernickel Bread</string>
+    <string name="sheriff_royal">Royal Roosters</string>
+    <string name="sheriff_rye">Rye Bread</string>
+</resources>

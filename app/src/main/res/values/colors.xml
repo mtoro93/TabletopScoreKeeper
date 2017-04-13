@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#2E7D32</color>
+    <color name="colorAccent">#FFEB3B</color>
+
+    <!-- Sheriff of Nottingham colors -->
+    <color name="Sheriff_of_Nottingham_background">#795548</color>
+    <color name="Sheriff_of_Nottingham_text">#689F38</color>
+
+    <!-- Five Tribes colors -->
+    <color name="Five_Tribes_background">#1565C0</color>
+    <color name="Five_Tribes_text">#FFFFFF</color>
+
+    <!-- Sushi Go colors -->
+    <color name="Sushi_Go_background">#000000</color>
+    <color name="Sushi_Go_text">#FFFFFF</color>
+</resources>

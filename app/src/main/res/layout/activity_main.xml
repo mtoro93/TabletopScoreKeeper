@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.tabletopscorekeeper.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mininum_category_height"
+        android:background="@color/Sheriff_of_Nottingham_background"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/sheriff_icon"
+            android:scaleType="fitStart"/>
+
+        <TextView
+            android:id="@+id/sheriff"
+            style="@style/Tabletop_Category_Name"
+            android:text="@string/sheriff_game"
+            android:textColor="@color/Sheriff_of_Nottingham_text" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mininum_category_height"
+        android:background="@color/Five_Tribes_background"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/five_tribes_icon"
+            android:scaleType="fitStart"/>
+
+        <TextView
+            android:id="@+id/five_tribes"
+            style="@style/Tabletop_Category_Name"
+            android:text="@string/five_tribes_game"
+            android:textColor="@color/Five_Tribes_text" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mininum_category_height"
+        android:background="@color/Sushi_Go_background"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/sushi_go_icon"
+            android:scaleType="centerInside"/>
+
+        <TextView
+            android:id="@+id/sushi_go"
+            style="@style/Tabletop_Category_Name"
+            android:text="@string/sushi_go_game"
+            android:textColor="@color/Sushi_Go_text" />
+
+    </LinearLayout>
+
+</LinearLayout>
